@@ -5,6 +5,7 @@ Ce projet est un Système de Gestion développé avec Spring Boot, Maven, Hibern
 pour créer, lire, mettre à jour et supprimer (CRUD) des étudiants, des rôles et des filières. Le projet intègre également Swagger pour faciliter les tests et
 l'interaction avec l'API.
 
+
 # Technologie et outils utilisées
  - Spring Boot
  - Maven
